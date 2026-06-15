@@ -1,1 +1,2 @@
 # PUM-Net
+PUM-Net is a pyramid-architecture neural network for supervised multimodal image registration based on algorithm unrolling. Unlike DUM-Net, PUM-Net adopts a pyramid architecture, making it more suitable for handling large deformation problems. Moreover, its similarity-function gradient approximation network employs a cross-attention architecture, which facilitates the fusion of multimodal information. The detailed implementation details will be uploaded once my master’s thesis is published on CNKI.
